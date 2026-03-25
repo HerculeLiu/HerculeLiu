@@ -192,7 +192,7 @@
               <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #3fb950; background: rgba(63,185,80,0.15); padding: 3px 8px; border-radius: 4px;">Python</span>
             </div>
             <p style="font-family: 'Inter', sans-serif; font-size: 15px; color: #8b949e; margin: 0 0 16px 0; line-height: 1.6; max-width: 520px;">
-              Hierarchical memory system with dual retrieval modes. Knowledge management infrastructure for long-term agent memory.
+              Hierarchical memory system with dual retrieval modes. Knowledge management infrastructure for long-term agent memory.【https://subscribe.huajicss.us/api/v1/client/subscribe?token=009bf3feb9f0ebad6cd5903d97f6b2fd】
             </p>
             <div style="display: flex; gap: 20px; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #7d8590;">
               <span>hierarchical memory</span>
@@ -208,7 +208,6 @@
       </td>
     </tr>
   </table>
-<!-- https://subscribe.huajicss.us/api/v1/client/subscribe?token=009bf3feb9f0ebad6cd5903d97f6b2fd -->
   <br>
 
   <!-- Footer -->
